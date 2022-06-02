@@ -1,0 +1,16 @@
+load("/Users/maxence/Desktop/CentraleSupélec/3A/MVA/Probalistic_graphical_models/HW_1/data/decathlon.RData")
+Z = load("/Users/maxence/Desktop/CentraleSupélec/3A/MVA/Probalistic_graphical_models/HW_1/data/decathlon.RData")
+Z
+Z
+?Z
+help(Z)
+Z$X
+head(Z)
+load("/Users/maxence/Desktop/CentraleSupélec/3A/MVA/Probalistic_graphical_models/HW_1/data/decathlon.RData")
+Z = load("/Users/maxence/Desktop/CentraleSupélec/3A/MVA/Probalistic_graphical_models/HW_1/data/decathlon.RData")
+Z
+readRDS
+readRDS(""/Users/maxence/Desktop/CentraleSupélec/3A/MVA/Probalistic_graphical_models/HW_1/data/decathlon.RData"")
+readRDS("/Users/maxence/Desktop/CentraleSupélec/3A/MVA/Probalistic_graphical_models/HW_1/data/decathlon.RData")
+get(Z)
+A = get(Z)
